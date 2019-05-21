@@ -4,6 +4,7 @@ This starter project it comes with the following configurations:
 
 * Import images files (jpg, png, gif, svg).
 * Import CSS files.
+* Hanlde Module Resolver.
 
 To get started, just clone the repository and run `npm install && npm run dev`:
 
