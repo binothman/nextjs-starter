@@ -1,9 +1,9 @@
 webpackHotUpdate("static/development/pages/index.js",{
 
-/***/ "./components/atoms/Button/Button.js":
-/*!*******************************************!*\
-  !*** ./components/atoms/Button/Button.js ***!
-  \*******************************************/
+/***/ "./pages/index.js":
+/*!************************!*\
+  !*** ./pages/index.js ***!
+  \************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -11,26 +11,26 @@ webpackHotUpdate("static/development/pages/index.js",{
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/private/var/www/html/mbo/nextest/components/atoms/Button/Button.js";
+var _jsxFileName = "/private/var/www/html/mbo/nextest/pages/index.js";
 
 
-var Button = function Button() {
+var Home = function Home() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "button",
+    className: "home",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 4
+      lineNumber: 2
     },
     __self: this
-  }, "Button");
+  }, "Welcome to Next.js! fsd");
 };
 
-/* harmony default export */ __webpack_exports__["default"] = (Button);
+/* harmony default export */ __webpack_exports__["default"] = (Home);
 
 /***/ }),
 
-/***/ "./components/atoms/Button/loading.svg":
+/***/ "./pages/loading.svg":
 false
 
 })
-//# sourceMappingURL=index.js.a19cc69e0a5dd04e3b2e.hot-update.js.map
+//# sourceMappingURL=index.js.b3e62ee25e9e5e2784ac.hot-update.js.map
