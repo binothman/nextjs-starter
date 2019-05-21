@@ -1,4 +1,4 @@
-[NextJS](https://github.com/zeit/next.js/) Starter Project
+# [NextJS](https://github.com/zeit/next.js/) Starter Project
 
 This starter project it comes with the following configurations:
 
@@ -7,6 +7,6 @@ This starter project it comes with the following configurations:
 
 To get started, just clone the repository and run `npm install && npm run dev`:
 
-  git clone https://github.com/binothman/nextjs-starter.git
-  npm install
-  npm run dev
+    git clone https://github.com/binothman/nextjs-starter.git
+    npm install
+    npm run dev
